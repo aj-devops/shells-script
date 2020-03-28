@@ -13,7 +13,7 @@ OR
 #!/usr/bin/env bash
 All scripts under Linux execute using the interpreter specified on a first line
 There are diff shell Cshell K shell .sh shell
-Ignoring An Interpreter Line (shebang)
+Ignoring An Interpreter Line shebang
 #If you do not specify an interpreter line, the default is usually the /bin/sh. But, it is recommended that you set #!/bin/bash line.
 #/bin/sh
 For a system boot script, use /bin/sh:
