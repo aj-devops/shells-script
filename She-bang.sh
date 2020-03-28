@@ -25,7 +25,7 @@ The /usr/bin/env run a program such as a bash in a modified environment. It make
 The env command allows to run a program in a modified environment. 
 
 Question 1
-I noticed a few shell script shebang line ends with a single dash ( #!/bin/bash – ) or double dash ( #!/bin/bash — ). 
+I noticed a few shell script shebang line ends with a single dash  #!/bin/bash –  or double dash  #!/bin/bash — . 
 – single means end of options
  —- disables further option processing,bash will not accept any of its option
 
