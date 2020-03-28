@@ -53,5 +53,4 @@ t = boto3.resource's3'
      Question 2 - Is env always located at /usr/bin/env
      type env
 command -V env
-O/P - env is /usr/bin/env
-
+#O/P - env is /usr/bin/env
