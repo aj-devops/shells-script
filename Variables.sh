@@ -25,6 +25,9 @@ DATE=2019-09-24
 echo Hello Good Morning, Today date is $DATE
 
 ## All the times we may not hardcode a content into a variable but where as it needs dynamically 
+###static content - data will not change when ever you execute script
+###dynamic content - data will cahnge like -DATE chanegs everyd dynamic
+###%F	full date; same as %Y-%m-%dcope of the variable is local
 
 ## Variable Declaration can be done dynamically using 
 ## 1. Command Substitution 
@@ -49,6 +52,3 @@ echo A = $A
 
 
 
-static content - data will not change when ever you execute script
-dynamic content - data will cahnge like -DATE chanegs everyd dynamic
-%F	full date; same as %Y-%m-%dcope of the variable is local
